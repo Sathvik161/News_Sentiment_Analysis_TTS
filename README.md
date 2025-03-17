@@ -187,7 +187,7 @@ This project is **open-source** and available for modification under the **MIT L
 ## **📞 Contact**
 
 💬 Have questions or suggestions? Feel free to reach out!  
-📧 Email: `your.email@example.com`  
+📧 Email: `sathvik.vittapu@gmail.com.com`  
 🐙 GitHub: [`github.com/Sathvik161`](https://github.com/Sathvik161)
 
 ---
